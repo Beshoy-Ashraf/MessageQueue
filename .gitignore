@@ -478,3 +478,20 @@ $RECYCLE.BIN/
 # Secrets safety net (user-secrets already keeps real values out of the repo)
 appsettings.Development.json
 appsettings.*.local.json
+bin/
+obj/
+*.dll
+*.pdb
+*.cache
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Generated files & caches
+*.dll
+*.pdb
+*.cache
+*.cache.json
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
