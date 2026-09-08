@@ -15,13 +15,13 @@ public class BookingController(ILogger<BookingController> logger, IMessageProduc
       [HttpPost]
       public async Task<IActionResult> CreateBooking([FromBody] Booking booking)
       {
-            logger.LogInformation("Received booking request for {PassengerName} {PassengerSurname}", booking.PassengerName, booking.PassengerSurname);
+            logger.LogInformation("Received booking request for {PassengerName} {PassportNumber}", booking.PassengerName, booking.PassportNumber);
 
             Bookings.Add(booking);
 
             await messageProducer.SendMessage<Booking>(booking);
 
-            logger.LogInformation("Booking request for {PassengerName} {PassengerSurname} sent to the queue", booking.PassengerName, booking.PassengerSurname);
+            logger.LogInformation("Booking request for {PassengerName} {PassportNumber} sent to the queue", booking.PassengerName, booking.PassportNumber);
 
             return Ok(new { Message = "Booking request received and sent to the queue." });
       }
