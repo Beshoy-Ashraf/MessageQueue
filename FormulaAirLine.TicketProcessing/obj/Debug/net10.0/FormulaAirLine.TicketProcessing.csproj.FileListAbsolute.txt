@@ -12,3 +12,8 @@
 /home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/obj/Debug/net10.0/FormulaAirLine.TicketProcessing.pdb
 /home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/obj/Debug/net10.0/FormulaAirLine.TicketProcessing.genruntimeconfig.cache
 /home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/obj/Debug/net10.0/ref/FormulaAirLine.TicketProcessing.dll
+/home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/bin/Debug/net10.0/RabbitMQ.Client.dll
+/home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/bin/Debug/net10.0/System.Threading.RateLimiting.dll
+/home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/obj/Debug/net10.0/FormulaAirLine.TicketProcessing.csproj.AssemblyReference.cache
+/home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/obj/Debug/net10.0/FormulaAirLine.TicketProcessing.sourcelink.json
+/home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/obj/Debug/net10.0/FormulaA.48773C44.Up2Date
