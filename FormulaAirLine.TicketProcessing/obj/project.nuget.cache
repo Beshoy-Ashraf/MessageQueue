@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHwpcig6I8M=",
+  "success": true,
+  "projectFilePath": "/home/besho/API/MessageQueue/FormulaAirLine.TicketProcessing/FormulaAirLine.TicketProcessing.csproj",
+  "expectedPackageFiles": [
+    "/home/besho/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

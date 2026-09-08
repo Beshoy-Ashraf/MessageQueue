@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FormulaAirLine.API/FormulaAirLine.API.csproj" />
+  <Project Path="FormulaAirLine.TicketProcessing/FormulaAirLine.TicketProcessing.csproj" />
+</Solution>
