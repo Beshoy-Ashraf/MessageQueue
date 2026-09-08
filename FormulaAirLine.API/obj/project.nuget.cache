@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "8/vHh8Zhv5U=",
+  "dgSpecHash": "c24LQkVM7MA=",
   "success": true,
   "projectFilePath": "/home/besho/API/MessageQueue/FormulaAirLine.API/FormulaAirLine.API.csproj",
   "expectedPackageFiles": [
     "/home/besho/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "/home/besho/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
     "/home/besho/.nuget/packages/rabbitmq.client/7.2.2/rabbitmq.client.7.2.2.nupkg.sha512",
+    "/home/besho/.nuget/packages/swashbuckle.aspnetcore.swagger/10.0.0/swashbuckle.aspnetcore.swagger.10.0.0.nupkg.sha512",
+    "/home/besho/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.0.0/swashbuckle.aspnetcore.swaggergen.10.0.0.nupkg.sha512",
+    "/home/besho/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.0.0/swashbuckle.aspnetcore.swaggerui.10.0.0.nupkg.sha512",
     "/home/besho/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512",
     "/home/besho/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
   ],
